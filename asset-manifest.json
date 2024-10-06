@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/robonexus/static/css/main.eac17293.css",
-    "main.js": "/robonexus/static/js/main.c176dfe6.js",
+    "main.js": "/robonexus/static/js/main.77d353b6.js",
     "static/js/453.e397c2d4.chunk.js": "/robonexus/static/js/453.e397c2d4.chunk.js",
     "static/media/logo.png": "/robonexus/static/media/logo.b231fd02be83da012b11.png",
     "index.html": "/robonexus/index.html",
     "main.eac17293.css.map": "/robonexus/static/css/main.eac17293.css.map",
-    "main.c176dfe6.js.map": "/robonexus/static/js/main.c176dfe6.js.map",
+    "main.77d353b6.js.map": "/robonexus/static/js/main.77d353b6.js.map",
     "453.e397c2d4.chunk.js.map": "/robonexus/static/js/453.e397c2d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eac17293.css",
-    "static/js/main.c176dfe6.js"
+    "static/js/main.77d353b6.js"
   ]
 }
